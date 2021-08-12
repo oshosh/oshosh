@@ -1,6 +1,7 @@
 ### Hi there 👋 
 - 💻 **I'm a Frontend Develover** 
-- 🇰🇷 **I'm working in South Korea**
+- - 🇰🇷 **I'm working in South Korea**
+
 
 - 📮 **osh's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhtpgus7@gmail.com)](mailto:dhtpgus7@gmail.com)
 
