@@ -1,3 +1,11 @@
+### Hi there 👋 
+- 💻 **I'm a iOS Develover** 
+- 🇰🇷 **I'm working in South Korea**
+
+📮 **Fomagran's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhtpgus7@gmail.com)](mailto:dhtpgus7@gmail.com)
+
+- 📒 **Fomagran's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://blog.naver.com/qhanfckwsmsd/)](https://blog.naver.com/qhanfckwsmsd/)
+
 - 👋 Hi, I’m @oshosh
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
