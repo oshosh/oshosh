@@ -1,14 +1,19 @@
-### Hi there 👋 
-- 💻 **I'm a Frontend Develover** 
-- 🇰🇷 **I'm working in South Korea**
- 
+# Hi there 👋
+
+**Frontend Developer specializing in scalable web applications and UI engineering.**  
+I value collaboration, practical problem-solving, and building great products with great teams.
+
+## 🧑‍💻 Career
+
+- [KB Data Systems](https://www.kbds.co.kr/) | Frontend Developer (2022.09 ~ )
+- [PetFriends](https://m.pet-friends.co.kr/main/tab/2?is_animal_code_change=1) | Frontend Developer (2021.12 ~ 2022.08)
+- [Douzone Bizon](https://www.douzone.com/main/index.jsp) | Frontend Developer (2019.10 ~ 2021.02)
+- [Fusiondata](https://fusiondata.co.kr/) | Software Developer (2018.08 ~ 2019.09)
+
+## 📬 Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhtpgus7@gmail.com)](mailto:dhtpgus7@gmail.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://oshosh-dev.vercel.app/)](https://oshosh-dev.vercel.app/)
 
-<!---
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dktkql5)](https://solved.ac/dktkql5/)
---->
-
-### Open Source Contributions
+## ✨ Open Source Contributions
 
 <a href="https://github.com/search?q=author%3Aoshosh+created%3A%3E2025-03-01+-user%3Aoshosh+-org%3ABook-Study-For-Developer+-org%3Awoowacourse-precourse+-org%3Awoowacourse+-org%3Awoowacourse-teams+-org%3Amantinedev+-org%3Areact&type=pullrequests">
   <img 
