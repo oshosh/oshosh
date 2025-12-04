@@ -4,30 +4,27 @@
  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhtpgus7@gmail.com)](mailto:dhtpgus7@gmail.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://oshosh-dev.vercel.app/)](https://oshosh-dev.vercel.app/)
 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dktkql5)](https://solved.ac/dktkql5/)
-
 <!---
-oshosh/oshosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dktkql5)](https://solved.ac/dktkql5/)
 --->
 
 ### Open Source Contributions
 
-<div align="left">
-
-<a href="https://github.com/gpbl/react-day-picker" target="_blank">
-  <img alt="GitHub Repo stars" 
-       src="https://img.shields.io/github/stars/gpbl/react-day-picker?style=social&label=react-day-picker"
-       height="25" />
+<a href="https://github.com/search?q=author%3Aoshosh+created%3A%3E2025-03-01+-user%3Aoshosh+-org%3ABook-Study-For-Developer+-org%3Awoowacourse-precourse+-org%3Awoowacourse+-org%3Awoowacourse-teams+-org%3Amantinedev+-org%3Areact&type=pullrequests">
+  <img 
+    src="https://github-contributor-stats.vercel.app/api?username=oshosh&combine_all_yearly_contributions=true&hide=B&hide_contributor_rank=false&order_by=contributions&theme=algolia" 
+  />
 </a>
-<img alt="npm downloads" 
-     src="https://img.shields.io/npm/dm/react-day-picker.svg?style=flat-square"
-     height="25" />
-<img alt="GitHub license" 
-     src="https://img.shields.io/github/license/gpbl/react-day-picker.svg?style=flat-square"
-     height="25" />
 
+<div align="left">
+ <a href="https://github.com/gpbl/react-day-picker" target="_blank">
+   <img alt="GitHub Repo stars" 
+        src="https://img.shields.io/github/stars/gpbl/react-day-picker?style=social&label=react-day-picker"
+        height="25" />
+ </a>
+ <img alt="npm downloads" 
+      src="https://img.shields.io/npm/dm/react-day-picker.svg?style=flat-square"
+      height="25" />
 </div>
 
 > **Contributor to `react-day-picker`**, a lightweight and customizable date selection library for React.
@@ -41,3 +38,17 @@ After analyzing the cause, I proposed the correct handling approach in the issue
 - Issue: https://github.com/gpbl/react-day-picker/issues/2864  
 - PR reflecting my solution: https://github.com/gpbl/react-day-picker/pull/2865
 
+<div align="left">
+ <a href="https://github.com/toss/es-toolkit" target="_blank">
+   <img alt="GitHub Repo stars" 
+        src="https://img.shields.io/github/stars/toss/es-toolkit?style=social&label=es-toolkit"
+        height="25" />
+ </a>
+ <img alt="npm downloads" 
+      src="https://img.shields.io/npm/dm/es-toolkit.svg?style=flat-square"
+      height="25" />
+</div>
+
+
+> **Contributor to `@toss/es-toolkit`**, a modern JavaScript/TypeScript utility toolkit designed for reliability, consistency, and predictable behavior across web applications.
+- [toss/es-toolkit](https://github.com/toss/es-toolkit/pulls?q=author%3Aoshosh)
