@@ -31,9 +31,8 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 > **Contributor to `react-day-picker`**, a lightweight and customizable date selection library for React.
-
-- Supports range picking, disabled days, localization, and full styling control.  
-- Widely adopted and used as the underlying engine for the **Calendar component in `shadcn/ui`** — providing core date logic while the UI layer is styled through the shadcn system.
+> 
+> Widely adopted and used as the underlying engine for the **Calendar component in `shadcn/ui`** — providing core date logic while the UI layer is styled through the shadcn system.
 
 **Notable Contribution:**  
 I identified and reported a bug related to nested `Date[]` matchers not being applied correctly in `react-day-picker`.  
