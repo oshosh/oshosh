@@ -17,7 +17,7 @@ I value collaboration, practical problem-solving, and building great products wi
 
 <a href="https://github.com/search?q=author%3Aoshosh+created%3A%3E2025-03-01+-user%3Aoshosh+-org%3ABook-Study-For-Developer+-org%3Awoowacourse-precourse+-org%3Awoowacourse+-org%3Awoowacourse-teams+-org%3Amantinedev+-org%3Areact&type=pullrequests">
   <img 
-    src="https://github-readme-stats.playfuni.net/api?username=oshosh&combine_all_yearly_contributions=true&hide=B&hide_contributor_rank=false&order_by=contributions&theme=algolia" 
+    src="https://github-contributor-stats.vercel.app/api?username=oshosh&combine_all_yearly_contributions=true&hide=B&hide_contributor_rank=false&order_by=contributions&theme=algolia" 
   />
 </a>
 
